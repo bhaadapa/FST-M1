@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FST Test Suite" thread-count = "4" parallel="classes">
+  <test name="Activity4">
+    <classes>
+      <class name="activities.Activity4_Demo1"/>
+      <class name="activities.Activity4_Demo2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
